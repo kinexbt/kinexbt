@@ -13,20 +13,6 @@
 <!-- <br></br> -->
 <!-- icons from: https://simpleicons.org/ -->
 
-## :seedling: Contributions
-
-- Fixed gallery component for Microsoft's Autogen
-
-[![Microsoft Autogen](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=autogen&theme=dark&show_owner=true)](https://github.com/microsoft/autogen/pull/1445)
-
-- Navbar issue fix for Creative Commons
-
-[![Creative Common](https://github-readme-stats.vercel.app/api/pin/?username=creativecommons&repo=creativecommons.github.io-source&theme=dark&show_owner=true)](https://github.com/creativecommons/creativecommons.github.io-source/pull/738)
-
-- Created a section for Creative Commons
-
-[![Creative Common](https://github-readme-stats.vercel.app/api/pin/?username=creativecommons&repo=creativecommons.github.io-source&theme=dark&show_owner=true)](https://github.com/creativecommons/creativecommons.github.io-source/pull/719)
-
 ## :crossed_swords: Skills
 
 - #### Languages:
@@ -78,10 +64,10 @@
 <img height="25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <!-- <br></br> -->
-<img height="25" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 <img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 </div>
 <!-- <br></br> -->
 
