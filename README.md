@@ -51,16 +51,23 @@
 - #### Frontend:
 
 <div align="left">
+<img height="25" src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Wagmi-FB5607?style=for-the-badge&logo=ethereum&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Alchemy-0A0A0A?style=for-the-badge&logo=alchemy&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Infura-FF4500?style=for-the-badge&logo=infura&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Hardhat-FECA57?style=for-the-badge&logo=ethereum&logoColor=black">
+<img height="25" src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
+<br></br>
+<img height="25" src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/LangChain.js-1E88E5?style=for-the-badge&logo=langchain&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/OpenAI-0072C6?style=for-the-badge&logo=openai&logoColor=white">
+<br></br>
 <img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img height="25" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/React_Native-25232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<!-- <br></br> -->
 <img height="25" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 <!-- <br></br> -->
 
