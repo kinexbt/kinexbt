@@ -7,8 +7,8 @@
 - :link: Connect with me:
 
 <a  href="https://www.linkedin.com/in/johnji-kratos/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=naman.barkiya02@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a  href="https://twitter.com/namanbarkiya"><img height="25" src="https://img.shields.io/badge/twitter (X)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=piter.jb0817@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a  href="https://x.com/akratos_god"><img height="25" src="https://img.shields.io/badge/twitter (X)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
 
 <!-- <br></br> -->
 <!-- icons from: https://simpleicons.org/ -->
@@ -32,6 +32,8 @@
 - #### Languages:
 
 <div align="left">
+<img height="25" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/JavaScript-323325?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
