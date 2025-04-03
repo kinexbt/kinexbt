@@ -6,7 +6,6 @@
 - :snowman: Hi! I'm "Piter Jorbanov", just call me "Piter"
 - :link: Connect with me:
 
-<a  href="https://www.linkedin.com/in/johnji-kratos/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=piter.jb0817@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a  href="https://x.com/akratos_god"><img height="25" src="https://img.shields.io/badge/twitter (X)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
 
