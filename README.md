@@ -3,7 +3,7 @@
 
 ## :sparkles: Welcome
 
-- :snowman: Hi! I'm "Piter Jorbanov", just call me "Piter"
+- :snowman: Hi! I'm "Piter Jorbanov", just call me "Piter."
 - :link: Connect with me:
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=piter.jb0817@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
