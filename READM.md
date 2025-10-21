@@ -7,9 +7,8 @@
 - :link: Connect with me:
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=piter.jb0817@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a  href="https://x.com/piter_sinny"><img height="25" src="https://img.shields.io/badge/twitter (X)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/johnjidev/" target="_blank"><img height="25" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://t.me/zhelezocode" target="_blank"><img height="25" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a  href="https://x.com/kinexbt"><img height="25" src="https://img.shields.io/badge/twitter (X)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
+<a href="https://t.me/kinexbt" target="_blank"><img height="25" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <!-- <br></br> -->
 <!-- icons from: https://simpleicons.org/ -->
@@ -71,17 +70,3 @@
 <img height="25" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 </div>
 <!-- <br></br> -->
-
-
-<!--- [![namanbarkiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanbarkiya&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=namanbarkiya)](https://github.com/namanbarkiya) -->
-
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanbarkiya&layout=compact&theme=radical&hide_border=true&custom_title=Languages)](https://github.com/namanbarkiya) -->
-
-
-
-<!-- [![namanbarkiya's GitHub stats](https://activity-graph.herokuapp.com/graph?username=namanbarkiya&theme=minimal&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/namanbarkiya) -->
-
-<!---
-namanbarkiya/namanbarkiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
