@@ -19,7 +19,7 @@
 <h1 style="text-align : center"> ⛏ I'm building for profit </h1>
 
 <h3>✨ Star & Fork</h3>
-<a href="https://github.com/kinexbt/pumpfun_smart_contract">💊Pumpfun smart contract</a>
+<a href="https://github.com/kinexbt/raydium-pumpswap-trade-bot">💊Pumpfun smart contract</a>
 
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
