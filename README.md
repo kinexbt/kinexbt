@@ -1,72 +1,52 @@
+<!--
+### ⭐Star & 🍴Fork
+-->
+<p align="center">
+    <h1 align="center">✩&emsp;Blockchain Engineer&emsp;✩</h1>
+</p>
+<br>
 
-<a  href="https://zhelezo-site.vercel.app/"><img height="30" src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black"></a>
-
-## :sparkles: Welcome!
-
-- :snowman: Hi! I'm "Piter Jorbanov", just call me "Piter"
-- :link: Connect with me:
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=piter.jb0817@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a  href="https://x.com/kinexbt"><img height="25" src="https://img.shields.io/badge/twitter (X)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
-<a href="https://t.me/kinexbt" target="_blank"><img height="25" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
-<!-- <br></br> -->
-<!-- icons from: https://simpleicons.org/ -->
-
-## :crossed_swords: Skills
-
-- #### Languages:
-
-<div align="left">
-<img height="25" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/JavaScript-323325?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-<img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<!-- <img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> -->
-<!-- <img height="25" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"> -->
-<!-- <br></br> -->
-<!-- <img height="25" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> -->
-<!-- <img height="25" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> -->
-<img height="25" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
-<!-- <br></br> -->
 
-- #### Frontend:
+- ✨ Rust & Solidity Smart Contract Engineer
+- ⚙️ DeFi Protocol Engineer & AI Agent Architect
+- 🚀 Hardcore Rust Engineer | DeFi Protocols & AI Agents
+- ✨ Protocol Engineer • AI Agent Dev • Onchain Innovator
 
-<div align="left">
-<img height="25" src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Wagmi-FB5607?style=for-the-badge&logo=ethereum&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Alchemy-0A0A0A?style=for-the-badge&logo=alchemy&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Infura-FF4500?style=for-the-badge&logo=infura&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Hardhat-FECA57?style=for-the-badge&logo=ethereum&logoColor=black">
-<img height="25" src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
-<br></br>
-<img height="25" src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/LangChain.js-1E88E5?style=for-the-badge&logo=langchain&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/OpenAI-0072C6?style=for-the-badge&logo=openai&logoColor=white">
-<br></br>
-<img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img height="25" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
+
+
+
+<h1 style="text-align : center"> ⛏ I'm building for profit </h1>
+
+<h3>✨ Star & Fork</h3>
+<a href="https://github.com/kinexbt/pumpfun_smart_contract">💊Pumpfun smart contract</a>
+
+<h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
+
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="mailto:piter.jb0817@gmail.com" target="_blank">
+        <img alt="Email"
+        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+     <a href="https://x.com/kinexbt" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<!--      <a href="https://discordapp.com/users/471524111512764447" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>  -->
+    <a href="https://t.me/kinexbt" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
-<!-- <br></br> -->
 
-- #### Backend:
-<div align="left">
-<img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<!-- <br></br> -->
-<img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-</div>
-<!-- <br></br> -->
+<!--
+**anti-dominator/anti-dominator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
