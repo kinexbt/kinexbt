@@ -167,8 +167,6 @@ I'm always interested in challenging blockchain projects and collaborations. Whe
 
 ### 💎 Building the future of decentralized finance, one block at a time
 
-![Profile Views](https://komarev.com/ghpvc/?username=kinexbt&color=blueviolet&style=flat-square)
-
 **⭐ Star my repositories if you find them useful!**
 
 </div>
