@@ -11,11 +11,6 @@
 </div>
 
 ---
-
-## 🚀 About Me
-
-I'm a blockchain engineer specializing in high-performance DeFi protocols and trading systems. With deep expertise in Rust and Solidity, I build secure, efficient solutions for the decentralized finance ecosystem.
-
 ## 🛠️ Technical Stack
 
 <div align="center">
@@ -41,7 +36,7 @@ I'm a blockchain engineer specializing in high-performance DeFi protocols and tr
 
 ## 🏆 Featured Projects
 
-### 🤖 [Raydium & PumpFun Trading Bot](https://github.com/kinexbt/raydium-pumpswap-trade-bot)
+### 🤖 [Raydium & PumpSwap Trading Bot](https://github.com/kinexbt/raydium-pumpswap-trade-bot)
 
 High-performance automated trading system for Solana DEXs
 
