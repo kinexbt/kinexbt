@@ -16,25 +16,6 @@
 
 I'm a blockchain engineer specializing in high-performance DeFi protocols and trading systems. With deep expertise in Rust and Solidity, I build secure, efficient solutions for the decentralized finance ecosystem.
 
-### 💼 Core Expertise
-
-```rust
-Skills {
-    languages: ["Rust", "Solidity", "TypeScript"],
-    specializations: [
-        "Smart Contract Development",
-        "DeFi Protocol Architecture",
-        "Security Auditing & Code Review",
-        "MEV & Trading Bot Development",
-        "Cross-Chain Integration"
-    ],
-    platforms: ["Solana", "Ethereum", "XRPL"],
-    focus: "Building profitable, secure DeFi infrastructure"
-}
-```
-
----
-
 ## 🛠️ Technical Stack
 
 <div align="center">
