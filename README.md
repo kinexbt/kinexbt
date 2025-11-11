@@ -121,33 +121,6 @@ High-performance automated trading system for Solana DEXs
 
 </div>
 
----
-
-## 🤝 Let's Build Together
-
-I'm always interested in challenging blockchain projects and collaborations. Whether you need:
-
-- 🔨 Custom smart contract development
-- 🔍 Security audit for your protocol
-- 🚀 Trading bot or MEV infrastructure
-- 🏢 Full-stack DeFi solution
-
-**Let's discuss your project:**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piter.jb0817@gmail.com)
-[![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kinexbt)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kinexbt)
-
-</div>
-
----
-
-<div align="center">
-
-### 💎 Building the future of decentralized finance, one block at a time
-
 **⭐ Star my repositories if you find them useful!**
 
 </div>
